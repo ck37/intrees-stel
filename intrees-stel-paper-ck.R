@@ -136,5 +136,6 @@ rownames(aveMat) = dataV
 
 # Compare performance to inTree.
 aveMat - aveMat[,1]
-# Overall performance.
-aveMat
+
+# Overall performance, sorted by data file name.
+aveMat[order(rownames(aveMat)), ]
