@@ -3,7 +3,8 @@ Customization of Houtao Deng's inTrees-STEL analysis - repetitions are paralleli
 
 Code and data from https://sites.google.com/site/houtaodeng/intrees
 
-# Example output (10 repetitions)
+# Example output
+Based on 10 repetitions.
 ```r
 > aveMat[order(rownames(aveMat)), ]
                      STEL      rpart         RF
