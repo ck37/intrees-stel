@@ -3,6 +3,8 @@ Customization of Houtao Deng's inTrees-STEL analysis - repetitions are paralleli
 
 Code and data from https://sites.google.com/site/houtaodeng/intrees
 
+Datafile is https://dl.dropboxusercontent.com/u/45301435/inTrees_STEL_Data_For_Paper.zip
+
 # Example output
 Based on 10 repetitions.
 ```r
